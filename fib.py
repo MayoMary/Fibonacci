@@ -4,7 +4,6 @@
 # My name is Mary, so the first and last letters of my name (M + Y =13 + 25) give the number 38. The 38th Fibonacci number is 39088169.
 
 
-
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
