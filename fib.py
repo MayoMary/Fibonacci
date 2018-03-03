@@ -47,3 +47,6 @@ def fib(n):
 x = 178
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
+
+
+# Ord function converts a character to an ASCII value. 
